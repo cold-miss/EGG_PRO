@@ -1,2 +1,3 @@
 # EGG_PRO
-OTT platform personal portfolio design
+OTT platform/
+this is my personal portfolio design.
